@@ -8,7 +8,7 @@ The prokect started out as I @spirillen got very tired of not knowing why a doma
 
 As results of the knowledge we collect, we do build and maintain blacklists in the [matrix](https://github.com/mypdns/matrix) reposiroty.
 
-## Suppert
+## Support
 For general support and questions, please use our [support repo](https://github.com/mypdns/Support) and use either the Issue or Dicussion system. At the end of the day.. they are the same.
 
 ---------
