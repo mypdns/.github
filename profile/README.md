@@ -1,5 +1,7 @@
 # My Privacy DNS
 
+[![My Privacy DNS](https://github.com/mypdns/matrix/blob/master/.assets/icons/logo.png?raw=true)](https://www.mypdns.org/)
+
 My Privacy DNS is an organisation that aims to keep a knowlegde base on domains that are blacklisted in any domain Blacklist project.
 
 We have tryed to start thios a couple of times, but for various reasons, we have never found a stable solution to spread the KB, and therefor lost years of efforts. This is the 5 time we will try to acconplsh this goal, and this time we try out gibhub as the issue board (Knowlegde Base) for why domains are blacklisted.
