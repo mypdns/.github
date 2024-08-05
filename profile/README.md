@@ -3,8 +3,8 @@
 [![My Privacy DNS](https://github.com/mypdns/matrix/blob/master/.assets/icons/logo.png?raw=true)](https://www.mypdns.org/)
 
 
-[![Github](.assets/icons/github.png)](https://github.com/mypdns/matrix)
-[![ko-fi](.assets/icons/ko-fi.png)](DONATION.md)
+[![Github](https://github.com/mypdns/matrix/raw/master/.assets/icons/github.png)](https://github.com/mypdns/matrix)
+[![ko-fi](https://github.com/mypdns/matrix/raw/master/.assets/icons/ko-fi.png)](DONATION.md)
 [![liberapay](https://www.mypdns.org/fileproxy/?name=sp_receives_spirillen)](https://liberapay.com/spirillen/donate)
 [![goal](https://www.mypdns.org/fileproxy/?name=sp_goal_spirillen)](https://liberapay.com/spirillen/donate)
 
