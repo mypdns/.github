@@ -4,7 +4,7 @@
 
 
 [![Github](https://github.com/mypdns/matrix/raw/master/.assets/icons/github.png)](https://github.com/mypdns/matrix)
-[![ko-fi](https://github.com/mypdns/matrix/raw/master/.assets/icons/ko-fi.png)](DONATION.md)
+[![ko-fi](https://github.com/mypdns/matrix/raw/master/.assets/icons/ko-fi.png)]([DONATION.md](https://github.com/mypdns/matrix/blob/master/DONATION.md))
 [![liberapay](https://www.mypdns.org/fileproxy/?name=sp_receives_spirillen)](https://liberapay.com/spirillen/donate)
 [![goal](https://www.mypdns.org/fileproxy/?name=sp_goal_spirillen)](https://liberapay.com/spirillen/donate)
 
