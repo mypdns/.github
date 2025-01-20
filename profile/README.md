@@ -23,7 +23,4 @@ For general support and questions, please use our [support repo](https://github.
 
 ## Sponsors
 
-- Jetbrains, Provided free licence to any members, who have been working more
-  than 3 month for My Privacy DNS open source project, under a non-commercial
-  open-source software licence
-  [https://www.jetbrains.com/community/opensource/](https://www.jetbrains.com/community/opensource/?from=matrix).
+- Jetbrains: Free license, might be provided, for members working more than 3 months on the My Privacy DNS open source project under a non-commercial license.
