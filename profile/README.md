@@ -1,6 +1,6 @@
 # My Privacy DNS
 
-[![My Privacy DNS](https://www.mypdns.org/images/logo.png)](https://www.mypdns.org/)
+[![My Privacy DNS - Let no one Spy on you online](https://www.mypdns.org/images/logo.png)](https://www.mypdns.org/)
 
 [![Github](https://github.com/mypdns/matrix/raw/master/.assets/icons/github.png)](https://github.com/mypdns/matrix)
 [![ko-fi](https://www.mypdns.org/fileproxy/?name=sp_kofi_mypdns)]([DONATION.md](https://github.com/mypdns/matrix/blob/master/DONATION.md))
