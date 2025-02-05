@@ -1,19 +1,19 @@
 # My Privacy DNS
 
-[![My Privacy DNS - Let no one Spy on you online](https://www.mypdns.org/images/logo.png)](http://www.mypdns.org/?utm_source=github&utm_medium=mypdns_prj_readme&mtm_campaign=github&mtm_kwd=README)
+[![My Privacy DNS - Let no one Spy on you online](https://www.mypdns.org/images/logo.png)](http://www.mypdns.org/?utm_source=github&utm_medium=mypdns_prj_readme&mtm_campaign=matrix&mtm_kwd=README)
 
-[![Github](https://github.com/mypdns/matrix/raw/master/.assets/icons/github.png)](http://www.mypdns.org/r/prj/matrix?utm_source=github&utm_medium=mypdns_prj_readme&mtm_campaign=github&mtm_kwd=README)
-[![ko-fi](https://www.mypdns.org/fileproxy/?name=sp_kofi_mypdns)]([DONATION.md](https://github.com/mypdns/matrix/blob/master/DONATION.md))
+[![Github](https://github.com/mypdns/matrix/raw/master/.assets/icons/github.png)][mtx]
+[![ko-fi](https://www.mypdns.org/fileproxy/?name=sp_kofi_mypdns)][donate]
 [![liberapay](https://www.mypdns.org/fileproxy/?name=sp_receives_mypdns)](https://liberapay.com/MyPDNS/donate)
 [![goal](https://www.mypdns.org/fileproxy/?name=sp_goal_mypdns)](https://liberapay.com/MyPDNS/donate)
 
 ## Introduction
 
-My Privacy DNS is an organization dedicated to maintaining a comprehensive knowledge base on blacklisted domains across various DNS blacklist projects. Our primary goal is to collect and organize this information to provide clear insights into why certain domains are blacklisted. The secondary objective is to offer these blacklists through the [matrix repository](https://github.com/mypdns/matrix) as a direct reflection of the data gathered from [kb.mypdns.org/issues/MTX](https://kb.mypdns.org/issues/MTX), [matrix issues](https://github.com/mypdns/matrix/issues), and [mypdns.youtrack.cloud/issue/MTX](https://mypdns.youtrack.cloud/issue/MTX).
+My Privacy DNS is an organization dedicated to maintaining a comprehensive knowledge base on blacklisted domains across various DNS blacklist projects. Our primary goal is to collect and organize this information to provide clear insights into why certain domains are blacklisted. The secondary objective is to offer these blacklists through the [matrix repository][mtx] as a direct reflection of the data gathered from [kb.mypdns.org/issues/MTX](https://kb.mypdns.org/issues/MTX?utm_source=github&utm_medium=mypdns_prj_readme&mtm_campaign=matrix&mtm_kwd=README), [matrix issues](https://github.com/mypdns/matrix/issues), and [mypdns.youtrack.cloud/issue/MTX](https://mypdns.youtrack.cloud/issue/MTX).
 
 ## Project Overview
 
-The project originated from the need to understand the reasons behind domain blacklisting, as many projects tend to compile extensive lists without detailed explanations. As a result of the knowledge we collect, we build and maintain blacklists in the [matrix repository](https://github.com/mypdns/matrix).
+The project originated from the need to understand the reasons behind domain blacklisting, as many projects tend to compile extensive lists without detailed explanations. As a result of the knowledge we collect, we build and maintain blacklists in the [matrix repository][mtx].
 
 ### Key Features
 
@@ -27,7 +27,7 @@ For general support and questions, please use our [support repository](https://g
 ## Donations
 
 Support My Privacy DNS by donating through the following platforms:
-- [My Privacy DNS Donations](https://www.mypdns.org/donate)
+- [My Privacy DNS Donations][donate]
 
 Your donations help us continue providing this valuable service free of charge and support the development of privacy-friendly software.
 
@@ -41,3 +41,8 @@ For more details about the project, including source lists, categorization, and 
 
 - [Matrix Project README](https://github.com/mypdns/matrix/blob/master/README.md)
 - [Porn Filters README](https://github.com/mypdns/matrix/blob/master/source/porn_filters/README.md)
+
+[//] # (Links)
+
+[mtx]: http://www.mypdns.org/r/prj/matrix?utm_source=github&utm_medium=mypdns_prj_readme&mtm_campaign=matrix&mtm_kwd=README "My Privacy DNS's Matrix"
+[donate]: https://www.mypdns.org/donate?utm_source=github&utm_medium=mypdns_prj_readme&mtm_campaign=matrix&mtm_kwd=README "Please sponsor My Pricavy DNS by give a small donation"
