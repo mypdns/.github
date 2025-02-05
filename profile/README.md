@@ -1,8 +1,8 @@
 # My Privacy DNS
 
-[![My Privacy DNS - Let no one Spy on you online](https://www.mypdns.org/images/logo.png)](https://www.mypdns.org/)
+[![My Privacy DNS - Let no one Spy on you online](https://www.mypdns.org/images/logo.png)](http://www.mypdns.org/?utm_source=github&utm_medium=mypdns_prj_readme&mtm_campaign=github&mtm_kwd=README)
 
-[![Github](https://github.com/mypdns/matrix/raw/master/.assets/icons/github.png)](https://github.com/mypdns/matrix)
+[![Github](https://github.com/mypdns/matrix/raw/master/.assets/icons/github.png)](http://www.mypdns.org/r/prj/matrix?utm_source=github&utm_medium=mypdns_prj_readme&mtm_campaign=github&mtm_kwd=README)
 [![ko-fi](https://www.mypdns.org/fileproxy/?name=sp_kofi_mypdns)]([DONATION.md](https://github.com/mypdns/matrix/blob/master/DONATION.md))
 [![liberapay](https://www.mypdns.org/fileproxy/?name=sp_receives_mypdns)](https://liberapay.com/MyPDNS/donate)
 [![goal](https://www.mypdns.org/fileproxy/?name=sp_goal_mypdns)](https://liberapay.com/MyPDNS/donate)
