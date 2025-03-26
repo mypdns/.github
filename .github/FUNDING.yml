@@ -1,7 +1,8 @@
 # These are supported funding model platforms
 
-custom: ['https://github.com/mypdns/matrix/blob/master/DONATION.md']
+custom: ['http://www.mypdns.org/coffee', 'https://github.com/mypdns/matrix/blob/master/DONATION.md']
 #github: [Spirillen] # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
 ko_fi: spirillen
 liberapay: mypdns
 liberapay: spirillen
+github: [ Spirillen ]
